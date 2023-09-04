@@ -1,3 +1,8 @@
+# WARNING
+
+If you download the release your antivirus will very likely detect a virus. There is no virus. I might be lying. Or I might not be.
+Good Luck.
+
 # Seshat - File Sorting Application
 
 Seshat is a simple file sorting application built using C# and Windows Forms. It allows you to specify source and destination directories and define rules for sorting files based on their extensions. You can also customize the sorting rules by setting different destination directories for specific file extensions.
@@ -45,5 +50,6 @@ To get started with this project, follow these steps:
 
 3. Build and run the application.
 
+You could also just download the release
 
 Enjoy using Seshat for efficient file sorting!
