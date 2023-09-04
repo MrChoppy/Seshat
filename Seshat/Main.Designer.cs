@@ -651,8 +651,9 @@
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(775, 538);
             this.Controls.Add(this.extensionsPanel);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Main";
-            this.Text = "Form1";
+            this.Text = "Seshat";
             this.extensionsPanel.ResumeLayout(false);
             this.extensionsPanel.PerformLayout();
             this.panel7.ResumeLayout(false);
